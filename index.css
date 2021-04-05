@@ -1,0 +1,20 @@
+.nav-bar.navbar-dark{
+    padding: 0!important;
+}
+.nav-item.active{
+    background-color: #3C7A20!important;
+}
+input.form-control{
+    margin: 0!important;
+}
+button.btn.btn-outline-success{
+    background-color: white;
+    color: black;
+}
+.aside{
+    
+}
+li.head{
+    background: linear-gradient(to right, #1B4713, #fff);
+    /* background: radial-gradient(#1B4713, #fff) */
+}
